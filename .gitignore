@@ -1,0 +1,12 @@
+# Pycharm
+.idea
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dataset
+data
+
+# Models
+pretrained
+snapshot
